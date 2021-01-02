@@ -107,7 +107,7 @@ These print settings were used to print using a Creality CR-6 SE using Hatchbox 
 
 1. Use the USB C cord retainers to clip the USB C power source into place on the rail.
 
-1. [Install OctoPi on your Raspberry Pi](https://octoprint.org/download/) (the SD card is accessible through the slot on the end of the OctoPi Tray.
+1. [Install OctoPi on your Raspberry Pi](https://octoprint.org/download/) (the SD card is accessible through the slot on the end of the OctoPi Tray).
 
 1. Once OctoPi is running, go the Control tab and you should see a web camera image.    
 

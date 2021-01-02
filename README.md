@@ -47,7 +47,7 @@ You will need the following additional tools:
 
 ## Printing Instructions
 
-**IMPORTANT: ** Please review each part in your slicing software before printing to ensure a logical face is touching the build plate!      
+**IMPORTANT:** Please review each part in your slicing software before printing to ensure a logical face is touching the build plate!      
 
 These print settings were used to print using a Creality CR-6 SE using Hatchbox Black 1.75mm PLA.   You may need to adjust these settings slightly for other printer and filament combinations.
 

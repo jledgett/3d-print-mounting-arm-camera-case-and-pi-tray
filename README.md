@@ -2,6 +2,8 @@
 
 ## Overview
 
+This collection of files will allow you to print a 3D print a modification to your 3D printer.  This modification adds a mounting arm, case for the Raspberry Pi HQ Camera, as well as a covered tray for a Raspberry Pi 4B.  This is particularly useful for adding a camera to your printer for monitoring and control using OctoPrint / OctoPi.
+
 This system was designed to work with the Creality CR-6 SE printer, but should work with __any__ printer or CNC that uses a 40mm x 40mm extruded aluminum frame (including Ender 3, Ender 3 Pro, CR-10 MAX) .
 
 The Raspberry Pi case for your OctoPi server is designed to allow either direct mounting of the Raspberry Pi to the case using standoffs or dropping in the popular aluminum Flirc case for better heat dissipation.   
@@ -45,9 +47,13 @@ You will need the following additional tools:
 
 **IMPORTANT: ** Please review each part in your slicing software before printing to ensure a logical face is touching the build plate!      
 
+These print settings were used to print using a Creality CR-6 SE using Hatchbox Black 1.75mm PLA.   You may need to adjust these settings slightly for other printer and filament combinations.
+
 - Print Resolution: 0.2
 - Infill (unless otherwise noted below): 40%
 - Supports (unless otherwise noted below): No
+- Printing Temperature: 200C
+- Build Plate Temperature: 60C
 - Part-specific notes:
    - **Short Leveling Foot 1g - Print 5.stl**: Print 5 of these at 100% infill.
    - **Long Leveling Foot 1g - Print 2.stl**: Print 2 of these at 100% infill.

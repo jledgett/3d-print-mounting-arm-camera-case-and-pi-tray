@@ -12,6 +12,8 @@ The case also supports mounting a **5v** 40mm fan.   Noctua fans are suggested d
 
 If you are using the Flirc case, the camera cable and fan cable can both be passed through the GPIO slot on the bottom of the Flirc case.   Remove the cosmetic black plastic TOP panel to increase cooling performance.
 
+## Getting Started
+
 You will need the following non-included parts:
 - [Raspberry Pi 4B](https://smile.amazon.com/gp/product/B08DJ9MLHV/)
 - [Raspberry Pi HQ Camera](https://www.canakit.com/raspberry-pi-hq-camera.html)

@@ -2,7 +2,7 @@
 
 ## Overview
 
-This collection of files will allow you to print a 3D print a modification to your 3D printer.  This modification adds a mounting arm, case for the Raspberry Pi HQ Camera, as well as a covered tray for a Raspberry Pi 4B.  This is particularly useful for adding a camera to your printer for monitoring and control using OctoPrint / OctoPi.
+This collection of files will allow you to 3D print a modification to your 3D printer.  This modification adds a mounting arm, case for the Raspberry Pi HQ Camera, as well as a covered tray for a Raspberry Pi 4B.  This is particularly useful for adding a camera to your printer for monitoring and control using OctoPrint / OctoPi.
 
 This system was designed to work with the Creality CR-6 SE printer, but should work with __any__ printer or CNC that uses a 40mm x 40mm extruded aluminum frame (including Ender 3, Ender 3 Pro, CR-10 MAX) .
 
